@@ -1,0 +1,68 @@
+body {
+    /* background-color: red; */
+}
+
+
+@font-face {
+    font-family: Playfair_Display;
+    src: url(/fonts/font/PlayfairDisplay-Black.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+.sentencebanner h1 {
+    font-family: Playfair_Display;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: PlayfairDisplayItalic;
+    src: url(/fonts/font/PlayfairDisplay-Italic.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+.sentencebanner p {
+    font-family: PlayfairDisplayItalic;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: PlayfairDisplaySemiBold;
+    src: url(/fonts/font/PlayfairDisplay-SemiBold.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+
+.navbard a {
+    font-family: PlayfairDisplaySemiBold;
+    font-weight: 100;
+}
+
+
+@font-face {
+    font-family: Quando;
+    src: url(/fonts/font/Quando-Regular.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+
+.bottom h1 {
+    font-family: Quando;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: VarelaRound;
+    src: url(/fonts/font/VarelaRound-Regular.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+
+.bottom p {
+    font-family: VarelaRound;
+    font-weight: 100;
+}

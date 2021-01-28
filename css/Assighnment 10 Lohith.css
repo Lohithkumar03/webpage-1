@@ -1,0 +1,88 @@
+body {
+    /* background: black; */
+}
+
+.navbar {
+    text-align: center;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+    margin: 0px 10px;
+}
+
+.navbar .requestbutton {
+    margin-left: 100px;
+    border: none;
+    background: gray;
+    padding: 5px ;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.imgbanner .img {
+    width: 100%;
+    height: 57%;
+    margin: 8px 0px 0 0px;
+    position: relative;
+}
+
+.sentencebanner {
+    /* background-color: coral; */
+    width: 25%;
+    position: absolute;
+    margin: -296px 0 0 238px;
+}
+
+.sentencebanner p {
+    color: grey;
+}
+
+.sentencebanner .read {
+    border: none;
+    background: gray;
+    padding: 10px ;
+    cursor: pointer;
+}
+
+.bottom .row1 {
+    background: rgb(168, 112, 168);
+    width: 33.33%;
+    padding: 10px;
+    margin: 0 0 0 0;
+    color: white;
+}
+
+.bottom .row2 {
+    background: rgb(200, 228, 100);
+    width: 33.33%;
+    padding: 10px;
+    margin: 0 0 0 0;
+    color: white;
+}
+
+.bottom .row3 {
+    background: rgb(204, 55, 50);
+    width: 33.33%;
+    padding: 10px;
+    margin: 0 0 0 0;
+    color: white;
+}
+
+
+.bottom .button {
+    background: transparent;
+    text-decoration: none;
+    border: 2px solid white;
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+}
+
+.bottom {
+    display: flex;
+}
+
+
